@@ -1,0 +1,13 @@
+{
+  "name": "jeff-video-skills",
+  "owner": { "name": "Jeff" },
+  "metadata": { "description": "Jeff 的影片製作技能庫：動畫、剪輯、字幕、音效、產品與衛教影片" },
+  "plugins": [
+    {
+      "name": "video-skills-pack",
+      "source": "./plugins/video-skills-pack",
+      "description": "影片製作技能包：HyperFrames、短影音剪輯、Lottie、Manim、logo 動畫、電影感字幕、ElevenLabs 音效配樂等 54 個技能",
+      "version": "0.2.0"
+    }
+  ]
+}

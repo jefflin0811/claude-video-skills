@@ -1,0 +1,17 @@
+{
+  "name": "video-skills-pack",
+  "version": "0.2.0",
+  "description": "影片製作技能包 v0.2（54 個技能）：HyperFrames 動畫與字幕、短影音剪輯、產品／開箱影片、動態設計、Lottie 動畫、Manim 衛教動畫、logo 動畫、手繪動畫、電影感字幕、本機配音說明片、長片剪短片、ElevenLabs 音效配樂。",
+  "author": {
+    "name": "Jeff（整理：Claude）"
+  },
+  "license": "MIT / Apache-2.0 / AGPL-3.0（依各技能原始授權）",
+  "keywords": [
+    "video",
+    "hyperframes",
+    "motion-graphics",
+    "captions",
+    "sound-effects",
+    "short-form"
+  ]
+}
