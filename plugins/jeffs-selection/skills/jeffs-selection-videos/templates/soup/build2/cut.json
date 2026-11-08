@@ -1,0 +1,77 @@
+{
+ "seg": [
+  {
+   "name": "hook",
+   "o": 0.0,
+   "d": 2.3,
+   "speed": 1.0,
+   "src": "/mnt/user-data/uploads/39532_1.mp4",
+   "a": 2.1,
+   "b": 4.4
+  },
+  {
+   "name": "s1",
+   "o": 2.3,
+   "d": 3.4,
+   "speed": 1.0147,
+   "src": "/mnt/user-data/uploads/39518_1.mp4",
+   "a": 0.15,
+   "b": 3.6
+  },
+  {
+   "name": "s2",
+   "o": 5.7,
+   "d": 2.3,
+   "speed": 1.0,
+   "src": "/mnt/user-data/uploads/39521.mp4",
+   "a": 0.15,
+   "b": 2.45
+  },
+  {
+   "name": "s3",
+   "o": 8.0,
+   "d": 2.3,
+   "speed": 1.0,
+   "src": "/mnt/user-data/uploads/39524_1.mp4",
+   "a": 0.2,
+   "b": 2.5
+  },
+  {
+   "name": "s4",
+   "o": 10.3,
+   "d": 3.4,
+   "speed": 1.0147,
+   "src": "/mnt/user-data/uploads/39525_1.mp4",
+   "a": 0.25,
+   "b": 3.7
+  },
+  {
+   "name": "s5",
+   "o": 13.7,
+   "d": 4.6,
+   "speed": 1.0,
+   "src": "/mnt/user-data/uploads/39529_1.mp4",
+   "a": 2.4,
+   "b": 7.0
+  },
+  {
+   "name": "s6a",
+   "o": 18.3,
+   "d": 1.7,
+   "speed": 1.0,
+   "src": "/mnt/user-data/uploads/39532_1.mp4",
+   "a": 0.3,
+   "b": 2.0
+  },
+  {
+   "name": "s6b",
+   "o": 20.0,
+   "d": 2.8667,
+   "speed": 0.9419,
+   "src": "/mnt/user-data/uploads/39534_1.mp4",
+   "a": 0.75,
+   "b": 3.45
+  }
+ ],
+ "total": 22.8667
+}

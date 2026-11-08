@@ -1,0 +1,77 @@
+{
+ "seg": [
+  {
+   "name": "store",
+   "o": 0.0,
+   "d": 3.9,
+   "speed": 0.8205,
+   "src": "/mnt/user-data/uploads/39492_1.mp4",
+   "a": 0.0,
+   "b": 3.2
+  },
+  {
+   "name": "case",
+   "o": 3.9,
+   "d": 2.6,
+   "speed": 1.0,
+   "src": "/mnt/user-data/uploads/39492_1.mp4",
+   "a": 3.3,
+   "b": 5.9
+  },
+  {
+   "name": "chop",
+   "o": 6.5,
+   "d": 3.9,
+   "speed": 0.4487,
+   "src": "/mnt/user-data/uploads/39492_1.mp4",
+   "a": 5.95,
+   "b": 7.7
+  },
+  {
+   "name": "soup",
+   "o": 10.4,
+   "d": 2.6,
+   "speed": 0.4423,
+   "src": "/mnt/user-data/uploads/39490_1.mp4",
+   "a": 0.0,
+   "b": 1.15
+  },
+  {
+   "name": "blood",
+   "o": 13.0,
+   "d": 2.6,
+   "speed": 0.6346,
+   "src": "/mnt/user-data/uploads/39490_1.mp4",
+   "a": 1.7,
+   "b": 3.35
+  },
+  {
+   "name": "duck",
+   "o": 15.6,
+   "d": 2.6,
+   "speed": 0.4615,
+   "src": "/mnt/user-data/uploads/39490_1.mp4",
+   "a": 3.85,
+   "b": 5.05
+  },
+  {
+   "name": "smoke",
+   "o": 18.2,
+   "d": 2.6,
+   "speed": 0.7692,
+   "src": "/mnt/user-data/uploads/39490_1.mp4",
+   "a": 5.5,
+   "b": 7.5
+  },
+  {
+   "name": "all",
+   "o": 20.8,
+   "d": 3.2667,
+   "speed": 0.6276,
+   "src": "/mnt/user-data/uploads/39490_1.mp4",
+   "a": 7.6,
+   "b": 9.65
+  }
+ ],
+ "total": 24.0667
+}

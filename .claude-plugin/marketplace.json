@@ -1,13 +1,23 @@
 {
   "name": "jeff-video-skills",
-  "owner": { "name": "Jeff" },
-  "metadata": { "description": "Jeff 的影片製作技能庫：動畫、剪輯、字幕、音效、產品與衛教影片" },
+  "owner": {
+    "name": "Jeff"
+  },
+  "metadata": {
+    "description": "Jeff 的影片製作技能庫：動畫、剪輯、字幕、音效、廣告、產品與衛教影片，以及姐夫嚴選專用版型"
+  },
   "plugins": [
     {
       "name": "video-skills-pack",
       "source": "./plugins/video-skills-pack",
-      "description": "影片製作技能包：HyperFrames、短影音剪輯、Lottie、Manim、logo 動畫、電影感字幕、ElevenLabs 音效配樂等 54 個技能",
-      "version": "0.2.0"
+      "description": "影片製作技能包：HyperFrames、短影音剪輯、廣告與宣傳片流程、爆款拆解、自媒體腳本、Lottie、Manim、logo 動畫、電影感字幕、ElevenLabs 音效配樂等 76 個技能",
+      "version": "0.3.0"
+    },
+    {
+      "name": "jeffs-selection",
+      "source": "./plugins/jeffs-selection",
+      "description": "姐夫嚴選三系列短影音（探店、開煮、開箱）固定版型＋版型程式",
+      "version": "0.1.0"
     }
   ]
 }

@@ -12,6 +12,8 @@ allowed-tools:
 
 # shorts — Interactive Shortform Video Creator
 
+> **授權提醒（技能包加註）**：Remotion 對個人、非營利組織與 3 人以下的公司免費；員工超過 3 人的公司需購買 Remotion 公司授權。替公司（例如員工超過 3 人的媒體公司）做影片前，先告訴使用者這一點並確認，再開始。
+
 You are an interactive shortform video producer. You guide the user through a 10-step
 pipeline where YOU (Claude) analyze the transcript, identify the best segments, present
 them for approval, snap boundaries to natural audio cut points, and render premium

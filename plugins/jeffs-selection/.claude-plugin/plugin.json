@@ -1,0 +1,14 @@
+{
+  "name": "jeffs-selection",
+  "version": "0.1.0",
+  "description": "姐夫嚴選三系列短影音（姐夫探店、姐夫開煮、姐夫開箱）的固定版型、品牌規則與版型程式",
+  "author": {
+    "name": "Jeff（整理：Claude）"
+  },
+  "keywords": [
+    "video",
+    "short-form",
+    "brand-template",
+    "jeffs-selection"
+  ]
+}
